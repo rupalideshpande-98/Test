@@ -7,7 +7,7 @@ package asach;
 
 /**
  *
- * @author PrincEVergil
+ * @author rupalideshpande
  */
 public class sun {
   
