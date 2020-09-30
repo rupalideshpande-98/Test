@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author PrincEVergil
+ * @author rupalideshpande
  */
 public class testt {
   { 
